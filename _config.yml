@@ -1,0 +1,14 @@
+title: tablewise
+description: >-
+  Pay-per-result data tools on Apify: website contacts, YouTube transcripts,
+  hotel prices, tennis results and SEO metrics. Code examples and notes.
+url: "https://tablewiseapps-cmd.github.io"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+header_pages:
+  - privacy.md
+exclude:
+  - README.md
