@@ -69,6 +69,63 @@ a list of domains, without a Semrush account.
 - [Apify page](https://apify.com/tablewise/semrush-domain-metrics-scraper) ·
   [code examples](https://github.com/tablewiseapps-cmd/apify-scrapers-examples/tree/main/semrush-domain-metrics-scraper)
 
+### Google Trends Scraper
+
+Interest over time, by country or region, and top and rising related queries
+for any keyword, or for up to 5 keywords compared. Any country, time range
+and search type, YouTube included.
+
+- **Price:** $5 per 1,000 searches. Searches without data are free.
+- **Try a ready example:** [compare keywords on Google Trends](https://apify.com/tablewise/google-trends-scraper/examples/compare-keywords-on-google-trends) ·
+  [YouTube search trends](https://apify.com/tablewise/google-trends-scraper/examples/youtube-search-trends-for-keywords)
+- [Apify page](https://apify.com/tablewise/google-trends-scraper) ·
+  [code examples](https://github.com/tablewiseapps-cmd/apify-scrapers-examples/tree/main/google-trends-scraper)
+
+### Workday, Greenhouse, Lever & Ashby Jobs Scraper
+
+Every open job from company careers sites on Workday, Greenhouse, Lever and
+Ashby: title, department, location, remote, salary, posting date and full
+description in one table.
+
+- **Price:** $1.50 per 1,000 jobs.
+- **Try a ready example:** [Workday jobs from company careers sites](https://apify.com/tablewise/workday-greenhouse-lever-jobs-scraper/examples/scrape-workday-jobs-from-company-career-sites) ·
+  [track Greenhouse, Lever and Ashby postings](https://apify.com/tablewise/workday-greenhouse-lever-jobs-scraper/examples/track-greenhouse-lever-ashby-job-postings)
+- [Apify page](https://apify.com/tablewise/workday-greenhouse-lever-jobs-scraper) ·
+  [code examples](https://github.com/tablewiseapps-cmd/apify-scrapers-examples/tree/main/workday-greenhouse-lever-jobs-scraper)
+
+### Amazon Product Details Scraper
+
+Amazon.com product data for any list of ASINs or product URLs: price, list
+price, availability, rating, review count, units bought last month, Best
+Sellers Rank, bullet points, images and specs.
+
+- **Price:** $4 per 1,000 products. ASINs that are not found are free.
+- **Try a ready example:** [price and Best Sellers Rank by ASIN](https://apify.com/tablewise/amazon-product-details-scraper/examples/amazon-price-and-bsr-by-asin)
+- [Apify page](https://apify.com/tablewise/amazon-product-details-scraper) ·
+  [code examples](https://github.com/tablewiseapps-cmd/apify-scrapers-examples/tree/main/amazon-product-details-scraper)
+
+### Amazon Best Sellers Scraper
+
+The top 100 of any Amazon.com Best Sellers or Hot New Releases list, and of
+its subcategories if you want: rank, ASIN, title, price, rating and review
+count.
+
+- **Price:** $5 per 1,000 products.
+- **Try a ready example:** [track the Electronics best sellers](https://apify.com/tablewise/amazon-bestsellers-scraper/examples/track-amazon-best-sellers-electronics)
+- [Apify page](https://apify.com/tablewise/amazon-bestsellers-scraper) ·
+  [code examples](https://github.com/tablewiseapps-cmd/apify-scrapers-examples/tree/main/amazon-bestsellers-scraper)
+
+### AliExpress Search Scraper
+
+AliExpress search results for any keyword: price, original price, discount,
+rating, units sold, free shipping, Choice and sponsored flags, in the
+currency and ship-to country you choose.
+
+- **Price:** $5 per 1,000 products. Products without a price are free.
+- **Try a ready example:** [find best-selling AliExpress products](https://apify.com/tablewise/aliexpress-search-scraper/examples/find-best-selling-aliexpress-products)
+- [Apify page](https://apify.com/tablewise/aliexpress-search-scraper) ·
+  [code examples](https://github.com/tablewiseapps-cmd/apify-scrapers-examples/tree/main/aliexpress-search-scraper)
+
 More tools are on the [tablewise page on Apify](https://apify.com/tablewise).
 
 ## Code examples
