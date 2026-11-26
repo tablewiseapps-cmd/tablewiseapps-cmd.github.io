@@ -68,7 +68,7 @@ time in LinkedIn: *Settings > Data privacy > Permitted services*.
   results belong to the person who ran the tool, not to us. We'll still help:
   contact us as described above.
 
-## Your rights
+
 
 4. The tablewise video uploader (YouTube API Services)
 
@@ -81,6 +81,8 @@ How data is used. Information obtained through Google and YouTube APIs is used o
 Storage. The authorization token is kept only on the administrator's computer.
 
 YouTube. This tool uses YouTube API Services. The YouTube Terms of Service (https://www.youtube.com/t/terms) and the Google Privacy Policy (https://policies.google.com/privacy) apply. Access can be revoked at any time at https://myaccount.google.com/permissions.
+
+## Your rights
 
 You can ask us what personal data we hold about you, and ask us to correct
 or delete it. Since we keep almost none, most requests are answered by
