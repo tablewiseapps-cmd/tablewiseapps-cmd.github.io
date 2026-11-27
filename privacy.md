@@ -72,15 +72,15 @@ time in LinkedIn: *Settings > Data privacy > Permitted services*.
 
 ## 4. The tablewise video uploader (YouTube API Services)
 
-What it does. A private tool that runs on the computer of tablewise's administrator and uploads tablewise's own promotional videos to the tablewise YouTube channel. It is not offered to the public.
+**What it does.** A private tool that runs on the computer of tablewise's administrator and uploads tablewise's own promotional videos to the tablewise YouTube channel. It is not offered to the public.
 
-What it accesses. Only the permission to upload videos to the YouTube channel of the Google Account that authorizes it (the youtube.upload permission). It doesn't read, collect or store data about any other YouTube user, and it doesn't read the channel's comments, subscribers or private data.
+**What it accesses.** Only the permission to upload videos to the YouTube channel of the Google Account that authorizes it (the youtube.upload permission). It doesn't read, collect or store data about any other YouTube user, and it doesn't read the channel's comments, subscribers or private data.
 
-How data is used. Information obtained through Google and YouTube APIs is used only to upload and publish our own videos. It is never sold, shared with third parties or used for advertising. The use and transfer of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.
+**How data is used.** Information obtained through Google and YouTube APIs is used only to upload and publish our own videos. It is never sold, shared with third parties or used for advertising. The use and transfer of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.
 
-Storage. The authorization token is kept only on the administrator's computer.
+**Storage.** The authorization token is kept only on the administrator's computer.
 
-YouTube. This tool uses YouTube API Services. The YouTube Terms of Service (https://www.youtube.com/t/terms) and the Google Privacy Policy (https://policies.google.com/privacy) apply. Access can be revoked at any time at https://myaccount.google.com/permissions.
+**YouTube.** This tool uses YouTube API Services. The YouTube Terms of Service (https://www.youtube.com/t/terms) and the Google Privacy Policy (https://policies.google.com/privacy) apply. Access can be revoked at any time at https://myaccount.google.com/permissions.
 
 ## Your rights
 
