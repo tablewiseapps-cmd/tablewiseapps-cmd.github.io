@@ -70,7 +70,7 @@ time in LinkedIn: *Settings > Data privacy > Permitted services*.
 
 
 
-4. The tablewise video uploader (YouTube API Services)
+## 4. The tablewise video uploader (YouTube API Services)
 
 What it does. A private tool that runs on the computer of tablewise's administrator and uploads tablewise's own promotional videos to the tablewise YouTube channel. It is not offered to the public.
 
